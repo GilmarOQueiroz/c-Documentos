@@ -1,2 +1,2 @@
-# c-Documentos
-Curo de Flutter
+# c-Docum
+Curso de programação em Flutter
